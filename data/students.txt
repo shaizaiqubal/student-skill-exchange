@@ -1,0 +1,722 @@
+[
+  {
+    "student_id": "STU1001",
+    "name": "Anirban Bera",
+    "department": "Computer Applications",
+    "semester": 1,
+    "email": "student1@college.edu",
+    "contact": "9000001000",
+    "teaching_skills": [
+      "Python",
+      "Excel"
+    ],
+    "learning_skills": [
+      "CSS",
+      "Mathematics"
+    ],
+    "available_day": "Monday",
+    "available_time": "10 AM-12 PM",
+    "mode": "Offline",
+    "skill_levels": {
+      "Python": "Advanced",
+      "Excel": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1002",
+    "name": "Riya Das",
+    "department": "Computer Science",
+    "semester": 2,
+    "email": "student2@college.edu",
+    "contact": "9000001001",
+    "teaching_skills": [
+      "HTML",
+      "C Programming"
+    ],
+    "learning_skills": [
+      "JavaScript",
+      "PowerPoint"
+    ],
+    "available_day": "Tuesday",
+    "available_time": "12 PM-2 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "HTML": "Advanced",
+      "C Programming": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1003",
+    "name": "Soham Roy",
+    "department": "Commerce",
+    "semester": 3,
+    "email": "student3@college.edu",
+    "contact": "9000001002",
+    "teaching_skills": [
+      "CSS",
+      "Java"
+    ],
+    "learning_skills": [
+      "NumPy",
+      "Excel"
+    ],
+    "available_day": "Wednesday",
+    "available_time": "2 PM-4 PM",
+    "mode": "Offline",
+    "skill_levels": {
+      "CSS": "Advanced",
+      "Java": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1004",
+    "name": "Priya Sharma",
+    "department": "English",
+    "semester": 4,
+    "email": "student4@college.edu",
+    "contact": "9000001003",
+    "teaching_skills": [
+      "JavaScript",
+      "Data Analysis"
+    ],
+    "learning_skills": [
+      "SQL",
+      "C Programming"
+    ],
+    "available_day": "Thursday",
+    "available_time": "4 PM-6 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "JavaScript": "Advanced",
+      "Data Analysis": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1005",
+    "name": "Ayan Ghosh",
+    "department": "Mathematics",
+    "semester": 5,
+    "email": "student5@college.edu",
+    "contact": "9000001004",
+    "teaching_skills": [
+      "NumPy",
+      "Video Editing"
+    ],
+    "learning_skills": [
+      "Graphic Design",
+      "Java"
+    ],
+    "available_day": "Friday",
+    "available_time": "9 AM-11 AM",
+    "mode": "Offline",
+    "skill_levels": {
+      "NumPy": "Advanced",
+      "Video Editing": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1006",
+    "name": "Sneha Paul",
+    "department": "Computer Applications",
+    "semester": 6,
+    "email": "student6@college.edu",
+    "contact": "9000001005",
+    "teaching_skills": [
+      "SQL",
+      "Content Writing"
+    ],
+    "learning_skills": [
+      "Communication",
+      "Data Analysis"
+    ],
+    "available_day": "Saturday",
+    "available_time": "1 PM-3 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "SQL": "Advanced",
+      "Content Writing": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1007",
+    "name": "Rahul Dey",
+    "department": "Computer Science",
+    "semester": 1,
+    "email": "student7@college.edu",
+    "contact": "9000001006",
+    "teaching_skills": [
+      "Graphic Design",
+      "Public Speaking"
+    ],
+    "learning_skills": [
+      "Mathematics",
+      "Video Editing"
+    ],
+    "available_day": "Sunday",
+    "available_time": "3 PM-5 PM",
+    "mode": "Offline",
+    "skill_levels": {
+      "Graphic Design": "Advanced",
+      "Public Speaking": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1008",
+    "name": "Ishita Sen",
+    "department": "Commerce",
+    "semester": 2,
+    "email": "student8@college.edu",
+    "contact": "9000001007",
+    "teaching_skills": [
+      "Communication",
+      "UI Design"
+    ],
+    "learning_skills": [
+      "PowerPoint",
+      "Content Writing"
+    ],
+    "available_day": "Monday",
+    "available_time": "5 PM-7 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "Communication": "Advanced",
+      "UI Design": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1009",
+    "name": "Arjun Das",
+    "department": "English",
+    "semester": 3,
+    "email": "student9@college.edu",
+    "contact": "9000001008",
+    "teaching_skills": [
+      "Mathematics",
+      "Statistics"
+    ],
+    "learning_skills": [
+      "Excel",
+      "Public Speaking"
+    ],
+    "available_day": "Tuesday",
+    "available_time": "10 AM-12 PM",
+    "mode": "Offline",
+    "skill_levels": {
+      "Mathematics": "Advanced",
+      "Statistics": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1010",
+    "name": "Moumita Roy",
+    "department": "Mathematics",
+    "semester": 4,
+    "email": "student10@college.edu",
+    "contact": "9000001009",
+    "teaching_skills": [
+      "PowerPoint",
+      "Git"
+    ],
+    "learning_skills": [
+      "C Programming",
+      "UI Design"
+    ],
+    "available_day": "Wednesday",
+    "available_time": "12 PM-2 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "PowerPoint": "Advanced",
+      "Git": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1011",
+    "name": "Sayan Bose",
+    "department": "Computer Applications",
+    "semester": 5,
+    "email": "student11@college.edu",
+    "contact": "9000001010",
+    "teaching_skills": [
+      "Excel",
+      "Content Writing"
+    ],
+    "learning_skills": [
+      "Java",
+      "Statistics"
+    ],
+    "available_day": "Thursday",
+    "available_time": "2 PM-4 PM",
+    "mode": "Offline",
+    "skill_levels": {
+      "Excel": "Intermediate",
+      "Content Writing": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1012",
+    "name": "Diya Ghosh",
+    "department": "Computer Science",
+    "semester": 6,
+    "email": "student12@college.edu",
+    "contact": "9000001011",
+    "teaching_skills": [
+      "C Programming",
+      "Public Speaking"
+    ],
+    "learning_skills": [
+      "Data Analysis",
+      "Git"
+    ],
+    "available_day": "Friday",
+    "available_time": "4 PM-6 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "C Programming": "Intermediate",
+      "Public Speaking": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1013",
+    "name": "Kunal Singh",
+    "department": "Commerce",
+    "semester": 1,
+    "email": "student13@college.edu",
+    "contact": "9000001012",
+    "teaching_skills": [
+      "Java",
+      "UI Design"
+    ],
+    "learning_skills": [
+      "Video Editing",
+      "Python"
+    ],
+    "available_day": "Saturday",
+    "available_time": "9 AM-11 AM",
+    "mode": "Offline",
+    "skill_levels": {
+      "Java": "Advanced",
+      "UI Design": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1014",
+    "name": "Tania Dutta",
+    "department": "English",
+    "semester": 2,
+    "email": "student14@college.edu",
+    "contact": "9000001013",
+    "teaching_skills": [
+      "Data Analysis",
+      "Statistics"
+    ],
+    "learning_skills": [
+      "Content Writing",
+      "HTML"
+    ],
+    "available_day": "Sunday",
+    "available_time": "1 PM-3 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "Data Analysis": "Intermediate",
+      "Statistics": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1015",
+    "name": "Rohan Pal",
+    "department": "Mathematics",
+    "semester": 3,
+    "email": "student15@college.edu",
+    "contact": "9000001014",
+    "teaching_skills": [
+      "Video Editing",
+      "Git"
+    ],
+    "learning_skills": [
+      "Public Speaking",
+      "CSS"
+    ],
+    "available_day": "Monday",
+    "available_time": "3 PM-5 PM",
+    "mode": "Offline",
+    "skill_levels": {
+      "Video Editing": "Intermediate",
+      "Git": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1016",
+    "name": "Ananya Mitra",
+    "department": "Computer Applications",
+    "semester": 4,
+    "email": "student16@college.edu",
+    "contact": "9000001015",
+    "teaching_skills": [
+      "Content Writing",
+      "Python"
+    ],
+    "learning_skills": [
+      "UI Design",
+      "JavaScript"
+    ],
+    "available_day": "Tuesday",
+    "available_time": "5 PM-7 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "Content Writing": "Advanced",
+      "Python": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1017",
+    "name": "Abhishek Das",
+    "department": "Computer Science",
+    "semester": 5,
+    "email": "student17@college.edu",
+    "contact": "9000001016",
+    "teaching_skills": [
+      "Public Speaking",
+      "HTML"
+    ],
+    "learning_skills": [
+      "Statistics",
+      "NumPy"
+    ],
+    "available_day": "Wednesday",
+    "available_time": "10 AM-12 PM",
+    "mode": "Offline",
+    "skill_levels": {
+      "Public Speaking": "Intermediate",
+      "HTML": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1018",
+    "name": "Nisha Roy",
+    "department": "Commerce",
+    "semester": 6,
+    "email": "student18@college.edu",
+    "contact": "9000001017",
+    "teaching_skills": [
+      "UI Design",
+      "CSS"
+    ],
+    "learning_skills": [
+      "Git",
+      "SQL"
+    ],
+    "available_day": "Thursday",
+    "available_time": "12 PM-2 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "UI Design": "Intermediate",
+      "CSS": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1019",
+    "name": "Aditya Sen",
+    "department": "English",
+    "semester": 1,
+    "email": "student19@college.edu",
+    "contact": "9000001018",
+    "teaching_skills": [
+      "Statistics",
+      "JavaScript"
+    ],
+    "learning_skills": [
+      "Python",
+      "Graphic Design"
+    ],
+    "available_day": "Friday",
+    "available_time": "2 PM-4 PM",
+    "mode": "Offline",
+    "skill_levels": {
+      "Statistics": "Advanced",
+      "JavaScript": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1020",
+    "name": "Puja Banerjee",
+    "department": "Mathematics",
+    "semester": 2,
+    "email": "student20@college.edu",
+    "contact": "9000001019",
+    "teaching_skills": [
+      "Git",
+      "NumPy"
+    ],
+    "learning_skills": [
+      "HTML",
+      "Communication"
+    ],
+    "available_day": "Saturday",
+    "available_time": "4 PM-6 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "Git": "Intermediate",
+      "NumPy": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1021",
+    "name": "Ritwik Paul",
+    "department": "Computer Applications",
+    "semester": 3,
+    "email": "student21@college.edu",
+    "contact": "9000001020",
+    "teaching_skills": [
+      "Python",
+      "SQL"
+    ],
+    "learning_skills": [
+      "CSS",
+      "Mathematics"
+    ],
+    "available_day": "Sunday",
+    "available_time": "9 AM-11 AM",
+    "mode": "Offline",
+    "skill_levels": {
+      "Python": "Intermediate",
+      "SQL": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1022",
+    "name": "Srija Bose",
+    "department": "Computer Science",
+    "semester": 4,
+    "email": "student22@college.edu",
+    "contact": "9000001021",
+    "teaching_skills": [
+      "HTML",
+      "Graphic Design"
+    ],
+    "learning_skills": [
+      "JavaScript",
+      "PowerPoint"
+    ],
+    "available_day": "Monday",
+    "available_time": "1 PM-3 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "HTML": "Advanced",
+      "Graphic Design": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1023",
+    "name": "Debjit Ghosh",
+    "department": "Commerce",
+    "semester": 5,
+    "email": "student23@college.edu",
+    "contact": "9000001022",
+    "teaching_skills": [
+      "CSS",
+      "Communication"
+    ],
+    "learning_skills": [
+      "NumPy",
+      "Excel"
+    ],
+    "available_day": "Tuesday",
+    "available_time": "3 PM-5 PM",
+    "mode": "Offline",
+    "skill_levels": {
+      "CSS": "Intermediate",
+      "Communication": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1024",
+    "name": "Megha Dey",
+    "department": "English",
+    "semester": 6,
+    "email": "student24@college.edu",
+    "contact": "9000001023",
+    "teaching_skills": [
+      "JavaScript",
+      "Mathematics"
+    ],
+    "learning_skills": [
+      "SQL",
+      "C Programming"
+    ],
+    "available_day": "Wednesday",
+    "available_time": "5 PM-7 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "JavaScript": "Intermediate",
+      "Mathematics": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1025",
+    "name": "Sourav Das",
+    "department": "Mathematics",
+    "semester": 1,
+    "email": "student25@college.edu",
+    "contact": "9000001024",
+    "teaching_skills": [
+      "NumPy",
+      "PowerPoint"
+    ],
+    "learning_skills": [
+      "Graphic Design",
+      "Java"
+    ],
+    "available_day": "Thursday",
+    "available_time": "10 AM-12 PM",
+    "mode": "Offline",
+    "skill_levels": {
+      "NumPy": "Advanced",
+      "PowerPoint": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1026",
+    "name": "Tithi Sen",
+    "department": "Computer Applications",
+    "semester": 2,
+    "email": "student26@college.edu",
+    "contact": "9000001025",
+    "teaching_skills": [
+      "SQL",
+      "Excel"
+    ],
+    "learning_skills": [
+      "Communication",
+      "Data Analysis"
+    ],
+    "available_day": "Friday",
+    "available_time": "12 PM-2 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "SQL": "Intermediate",
+      "Excel": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1027",
+    "name": "Akash Roy",
+    "department": "Computer Science",
+    "semester": 3,
+    "email": "student27@college.edu",
+    "contact": "9000001026",
+    "teaching_skills": [
+      "Graphic Design",
+      "C Programming"
+    ],
+    "learning_skills": [
+      "Mathematics",
+      "Video Editing"
+    ],
+    "available_day": "Saturday",
+    "available_time": "2 PM-4 PM",
+    "mode": "Offline",
+    "skill_levels": {
+      "Graphic Design": "Intermediate",
+      "C Programming": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1028",
+    "name": "Rupsa Pal",
+    "department": "Commerce",
+    "semester": 4,
+    "email": "student28@college.edu",
+    "contact": "9000001027",
+    "teaching_skills": [
+      "Communication",
+      "Java"
+    ],
+    "learning_skills": [
+      "PowerPoint",
+      "Content Writing"
+    ],
+    "available_day": "Sunday",
+    "available_time": "4 PM-6 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "Communication": "Advanced",
+      "Java": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1029",
+    "name": "Niloy Dutta",
+    "department": "English",
+    "semester": 5,
+    "email": "student29@college.edu",
+    "contact": "9000001028",
+    "teaching_skills": [
+      "Mathematics",
+      "Data Analysis"
+    ],
+    "learning_skills": [
+      "Excel",
+      "Public Speaking"
+    ],
+    "available_day": "Monday",
+    "available_time": "9 AM-11 AM",
+    "mode": "Offline",
+    "skill_levels": {
+      "Mathematics": "Intermediate",
+      "Data Analysis": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  },
+  {
+    "student_id": "STU1030",
+    "name": "Aditi Sharma",
+    "department": "Mathematics",
+    "semester": 6,
+    "email": "student30@college.edu",
+    "contact": "9000001029",
+    "teaching_skills": [
+      "PowerPoint",
+      "Video Editing"
+    ],
+    "learning_skills": [
+      "C Programming",
+      "UI Design"
+    ],
+    "available_day": "Tuesday",
+    "available_time": "1 PM-3 PM",
+    "mode": "Online",
+    "skill_levels": {
+      "PowerPoint": "Intermediate",
+      "Video Editing": "Intermediate"
+    },
+    "registered_at": "25-11-2026 10:00:00"
+  }
+]

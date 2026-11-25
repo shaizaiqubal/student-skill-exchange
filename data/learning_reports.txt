@@ -1,0 +1,68 @@
+[
+  {
+    "generated_at": "25-11-2026 16:45:10",
+    "total_students": 30,
+    "total_skills": 20,
+    "most_taught_skill": "Python",
+    "most_requested_skill": "Python",
+    "total_requests": 15,
+    "accepted_requests": 10,
+    "completed_sessions": 5,
+    "most_active_peer_teacher": "Anirban Bera"
+  },
+  {
+    "generated_at": "25-11-2026 16:45:10",
+    "total_students": 30,
+    "total_skills": 20,
+    "most_taught_skill": "Python",
+    "most_requested_skill": "Python",
+    "total_requests": 15,
+    "accepted_requests": 10,
+    "completed_sessions": 5,
+    "most_active_peer_teacher": "Anirban Bera"
+  },
+  {
+    "generated_at": "25-11-2026 16:45:10",
+    "total_students": 30,
+    "total_skills": 20,
+    "most_taught_skill": "Python",
+    "most_requested_skill": "Python",
+    "total_requests": 15,
+    "accepted_requests": 10,
+    "completed_sessions": 5,
+    "most_active_peer_teacher": "Anirban Bera"
+  },
+  {
+    "generated_at": "25-11-2026 16:45:10",
+    "total_students": 30,
+    "total_skills": 20,
+    "most_taught_skill": "Python",
+    "most_requested_skill": "Python",
+    "total_requests": 15,
+    "accepted_requests": 10,
+    "completed_sessions": 5,
+    "most_active_peer_teacher": "Anirban Bera"
+  },
+  {
+    "generated_at": "25-11-2026 16:45:10",
+    "total_students": 30,
+    "total_skills": 20,
+    "most_taught_skill": "Python",
+    "most_requested_skill": "Python",
+    "total_requests": 15,
+    "accepted_requests": 10,
+    "completed_sessions": 5,
+    "most_active_peer_teacher": "Anirban Bera"
+  },
+  {
+    "generated_at": "25-11-2026 22:20:27",
+    "total_students": 30,
+    "total_skills": 20,
+    "most_taught_skill": "Python",
+    "most_requested_skill": "Python",
+    "total_requests": 15,
+    "accepted_requests": 10,
+    "completed_sessions": 5,
+    "most_active_peer_teacher": "Anirban Bera"
+  }
+]

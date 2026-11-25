@@ -1,0 +1,1 @@
+The project starts with 30 sample students, 20 skills and 15 learning requests. Five requests are completed, five are accepted and five are pending. Five pending requests intentionally ask for skills that are not taught by the sample students so you can test unmatched searches.

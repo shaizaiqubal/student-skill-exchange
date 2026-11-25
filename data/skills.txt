@@ -1,0 +1,122 @@
+[
+  {
+    "skill_id": "SK001",
+    "name": "Python",
+    "category": "Programming",
+    "level": "Advanced"
+  },
+  {
+    "skill_id": "SK002",
+    "name": "HTML",
+    "category": "Web Development",
+    "level": "Intermediate"
+  },
+  {
+    "skill_id": "SK003",
+    "name": "CSS",
+    "category": "Web Development",
+    "level": "Intermediate"
+  },
+  {
+    "skill_id": "SK004",
+    "name": "JavaScript",
+    "category": "Programming",
+    "level": "Intermediate"
+  },
+  {
+    "skill_id": "SK005",
+    "name": "NumPy",
+    "category": "Data Analysis",
+    "level": "Intermediate"
+  },
+  {
+    "skill_id": "SK006",
+    "name": "SQL",
+    "category": "Database",
+    "level": "Advanced"
+  },
+  {
+    "skill_id": "SK007",
+    "name": "Graphic Design",
+    "category": "Designing",
+    "level": "Advanced"
+  },
+  {
+    "skill_id": "SK008",
+    "name": "Communication",
+    "category": "Communication",
+    "level": "Advanced"
+  },
+  {
+    "skill_id": "SK009",
+    "name": "Mathematics",
+    "category": "Mathematics",
+    "level": "Advanced"
+  },
+  {
+    "skill_id": "SK010",
+    "name": "PowerPoint",
+    "category": "Presentation",
+    "level": "Intermediate"
+  },
+  {
+    "skill_id": "SK011",
+    "name": "Excel",
+    "category": "Office Applications",
+    "level": "Advanced"
+  },
+  {
+    "skill_id": "SK012",
+    "name": "C Programming",
+    "category": "Programming",
+    "level": "Intermediate"
+  },
+  {
+    "skill_id": "SK013",
+    "name": "Java",
+    "category": "Programming",
+    "level": "Intermediate"
+  },
+  {
+    "skill_id": "SK014",
+    "name": "Data Analysis",
+    "category": "Data Analysis",
+    "level": "Advanced"
+  },
+  {
+    "skill_id": "SK015",
+    "name": "Video Editing",
+    "category": "Designing",
+    "level": "Intermediate"
+  },
+  {
+    "skill_id": "SK016",
+    "name": "Content Writing",
+    "category": "Writing",
+    "level": "Advanced"
+  },
+  {
+    "skill_id": "SK017",
+    "name": "Public Speaking",
+    "category": "Communication",
+    "level": "Intermediate"
+  },
+  {
+    "skill_id": "SK018",
+    "name": "UI Design",
+    "category": "Designing",
+    "level": "Intermediate"
+  },
+  {
+    "skill_id": "SK019",
+    "name": "Statistics",
+    "category": "Mathematics",
+    "level": "Advanced"
+  },
+  {
+    "skill_id": "SK020",
+    "name": "Git",
+    "category": "Programming",
+    "level": "Intermediate"
+  }
+]

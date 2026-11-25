@@ -1,0 +1,92 @@
+[
+  {
+    "session_id": "SES001",
+    "request_id": "REQ001",
+    "learner_id": "STU1011",
+    "teacher_id": "STU1001",
+    "status": "Completed",
+    "completed_at": "25-11-2026 12:00:00",
+    "scheduled_at": "25-11-2026 11:00:00"
+  },
+  {
+    "session_id": "SES002",
+    "request_id": "REQ002",
+    "learner_id": "STU1012",
+    "teacher_id": "STU1002",
+    "status": "Completed",
+    "completed_at": "25-11-2026 12:00:00",
+    "scheduled_at": "25-11-2026 11:00:00"
+  },
+  {
+    "session_id": "SES003",
+    "request_id": "REQ003",
+    "learner_id": "STU1013",
+    "teacher_id": "STU1003",
+    "status": "Completed",
+    "completed_at": "25-11-2026 12:00:00",
+    "scheduled_at": "25-11-2026 11:00:00"
+  },
+  {
+    "session_id": "SES004",
+    "request_id": "REQ004",
+    "learner_id": "STU1014",
+    "teacher_id": "STU1004",
+    "status": "Completed",
+    "completed_at": "25-11-2026 12:00:00",
+    "scheduled_at": "25-11-2026 11:00:00"
+  },
+  {
+    "session_id": "SES005",
+    "request_id": "REQ005",
+    "learner_id": "STU1015",
+    "teacher_id": "STU1005",
+    "status": "Completed",
+    "completed_at": "25-11-2026 12:00:00",
+    "scheduled_at": "25-11-2026 11:00:00"
+  },
+  {
+    "session_id": "SES006",
+    "request_id": "REQ006",
+    "learner_id": "STU1016",
+    "teacher_id": "STU1006",
+    "status": "Accepted",
+    "scheduled_at": "26-11-2026 11:00:00",
+    "completed_at": ""
+  },
+  {
+    "session_id": "SES007",
+    "request_id": "REQ007",
+    "learner_id": "STU1017",
+    "teacher_id": "STU1007",
+    "status": "Accepted",
+    "scheduled_at": "26-11-2026 11:00:00",
+    "completed_at": ""
+  },
+  {
+    "session_id": "SES008",
+    "request_id": "REQ008",
+    "learner_id": "STU1018",
+    "teacher_id": "STU1008",
+    "status": "Accepted",
+    "scheduled_at": "26-11-2026 11:00:00",
+    "completed_at": ""
+  },
+  {
+    "session_id": "SES009",
+    "request_id": "REQ009",
+    "learner_id": "STU1019",
+    "teacher_id": "STU1009",
+    "status": "Accepted",
+    "scheduled_at": "26-11-2026 11:00:00",
+    "completed_at": ""
+  },
+  {
+    "session_id": "SES010",
+    "request_id": "REQ010",
+    "learner_id": "STU1020",
+    "teacher_id": "STU1010",
+    "status": "Accepted",
+    "scheduled_at": "26-11-2026 11:00:00",
+    "completed_at": ""
+  }
+]

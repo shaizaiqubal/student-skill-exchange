@@ -1,0 +1,167 @@
+[
+  {
+    "request_id": "REQ001",
+    "learner_id": "STU1011",
+    "required_skill": "Python",
+    "preferred_day": "Monday",
+    "preferred_time": "10 AM-12 PM",
+    "mode": "Offline",
+    "request_date": "25-11-2026",
+    "status": "Completed",
+    "created_at": "25-11-2026 10:30:00"
+  },
+  {
+    "request_id": "REQ002",
+    "learner_id": "STU1012",
+    "required_skill": "HTML",
+    "preferred_day": "Tuesday",
+    "preferred_time": "12 PM-2 PM",
+    "mode": "Online",
+    "request_date": "25-11-2026",
+    "status": "Completed",
+    "created_at": "25-11-2026 10:30:00"
+  },
+  {
+    "request_id": "REQ003",
+    "learner_id": "STU1013",
+    "required_skill": "CSS",
+    "preferred_day": "Wednesday",
+    "preferred_time": "2 PM-4 PM",
+    "mode": "Offline",
+    "request_date": "25-11-2026",
+    "status": "Completed",
+    "created_at": "25-11-2026 10:30:00"
+  },
+  {
+    "request_id": "REQ004",
+    "learner_id": "STU1014",
+    "required_skill": "JavaScript",
+    "preferred_day": "Thursday",
+    "preferred_time": "4 PM-6 PM",
+    "mode": "Online",
+    "request_date": "25-11-2026",
+    "status": "Completed",
+    "created_at": "25-11-2026 10:30:00"
+  },
+  {
+    "request_id": "REQ005",
+    "learner_id": "STU1015",
+    "required_skill": "NumPy",
+    "preferred_day": "Friday",
+    "preferred_time": "9 AM-11 AM",
+    "mode": "Offline",
+    "request_date": "25-11-2026",
+    "status": "Completed",
+    "created_at": "25-11-2026 10:30:00"
+  },
+  {
+    "request_id": "REQ006",
+    "learner_id": "STU1016",
+    "required_skill": "SQL",
+    "preferred_day": "Saturday",
+    "preferred_time": "1 PM-3 PM",
+    "mode": "Online",
+    "request_date": "25-11-2026",
+    "status": "Accepted",
+    "created_at": "25-11-2026 10:30:00"
+  },
+  {
+    "request_id": "REQ007",
+    "learner_id": "STU1017",
+    "required_skill": "Graphic Design",
+    "preferred_day": "Sunday",
+    "preferred_time": "3 PM-5 PM",
+    "mode": "Offline",
+    "request_date": "25-11-2026",
+    "status": "Accepted",
+    "created_at": "25-11-2026 10:30:00"
+  },
+  {
+    "request_id": "REQ008",
+    "learner_id": "STU1018",
+    "required_skill": "Communication",
+    "preferred_day": "Monday",
+    "preferred_time": "5 PM-7 PM",
+    "mode": "Online",
+    "request_date": "25-11-2026",
+    "status": "Accepted",
+    "created_at": "25-11-2026 10:30:00"
+  },
+  {
+    "request_id": "REQ009",
+    "learner_id": "STU1019",
+    "required_skill": "Mathematics",
+    "preferred_day": "Tuesday",
+    "preferred_time": "10 AM-12 PM",
+    "mode": "Offline",
+    "request_date": "25-11-2026",
+    "status": "Accepted",
+    "created_at": "25-11-2026 10:30:00"
+  },
+  {
+    "request_id": "REQ010",
+    "learner_id": "STU1020",
+    "required_skill": "PowerPoint",
+    "preferred_day": "Wednesday",
+    "preferred_time": "12 PM-2 PM",
+    "mode": "Online",
+    "request_date": "25-11-2026",
+    "status": "Accepted",
+    "created_at": "25-11-2026 10:30:00"
+  },
+  {
+    "request_id": "REQ011",
+    "learner_id": "STU1021",
+    "required_skill": "Kotlin",
+    "preferred_day": "Thursday",
+    "preferred_time": "2 PM-4 PM",
+    "mode": "Offline",
+    "request_date": "25-11-2026",
+    "status": "Pending",
+    "created_at": "25-11-2026 10:30:00"
+  },
+  {
+    "request_id": "REQ012",
+    "learner_id": "STU1022",
+    "required_skill": "Rust",
+    "preferred_day": "Friday",
+    "preferred_time": "4 PM-6 PM",
+    "mode": "Online",
+    "request_date": "25-11-2026",
+    "status": "Pending",
+    "created_at": "25-11-2026 10:30:00"
+  },
+  {
+    "request_id": "REQ013",
+    "learner_id": "STU1023",
+    "required_skill": "French",
+    "preferred_day": "Saturday",
+    "preferred_time": "9 AM-11 AM",
+    "mode": "Offline",
+    "request_date": "25-11-2026",
+    "status": "Pending",
+    "created_at": "25-11-2026 10:30:00"
+  },
+  {
+    "request_id": "REQ014",
+    "learner_id": "STU1024",
+    "required_skill": "Robotics",
+    "preferred_day": "Sunday",
+    "preferred_time": "1 PM-3 PM",
+    "mode": "Online",
+    "request_date": "25-11-2026",
+    "status": "Pending",
+    "created_at": "25-11-2026 10:30:00"
+  },
+  {
+    "request_id": "REQ015",
+    "learner_id": "STU1025",
+    "required_skill": "Photography",
+    "preferred_day": "Monday",
+    "preferred_time": "3 PM-5 PM",
+    "mode": "Offline",
+    "request_date": "25-11-2026",
+    "status": "Pending",
+    "created_at": "25-11-2026 10:30:00"
+  }
+]
